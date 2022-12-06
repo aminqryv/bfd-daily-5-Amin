@@ -1,0 +1,10 @@
+.button{
+    background-color: purple;
+    border: none;
+    border-radius: 9%;
+    width: 130px;
+    height: 50px;
+    color: white;
+    font-size: large;
+    font-family: 'Roboto Slab', serif;
+}
